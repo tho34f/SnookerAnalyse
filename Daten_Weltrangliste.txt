@@ -1,0 +1,366 @@
+1
+Mark Selby
+1,213,000
+2
+Judd Trump
+1,206,000
+3
+Ronnie O'Sullivan
+864,000
+4
+Neil Robertson
+772,000
+5
+Kyren Wilson
+609,500
+6
+Shaun Murphy
+574,500
+7
+John Higgins
+411,500
+8
+Mark Williams
+400,500
+9
+Stephen Maguire
+345,500
+10
+Ding Junhui
+335,250
+11
+Mark Allen
+296,000
+12
+Barry Hawkins
+292,000
+13
+Stuart Bingham
+281,500
+14
+Jack Lisowski
+272,500
+15
+Yan Bingtao
+261,500
+16
+Anthony McGill
+248,500
+17
+Zhou Yuelong
+212,000
+18
+David Gilbert
+194,000
+19
+Thepchaiya Un-Nooh
+181,250
+20
+Graeme Dott
+179,750
+21
+Joe Perry
+173,000
+22
+Ali Carter
+158,500
+23
+Martin Gould
+150,500
+24
+Tom Ford
+149,750
+25
+Zhao Xintong
+147,000
+26
+Ryan Day
+145,500
+27
+Kurt Maflin
+145,500
+28
+Gary Wilson
+144,500
+29
+Ricky Walden
+136,750
+30
+Wenbo Liang
+132,000
+31
+Michael Holt
+130,250
+32
+Xiao Guodong
+127,500
+33
+Matthew Selt
+127,000
+34
+Lu Ning
+126,250
+35
+Scott Donaldson
+114,250
+36
+Matthew Stevens
+110,000
+37
+Jordan Brown
+108,000
+38
+Li Hang
+105,500
+39
+Noppon Saengkham
+105,500
+40
+Hossein Vafaei
+105,000
+41
+Robert Milkins
+101,000
+42
+Alexander Ursenbacher
+100,250
+43
+Elliot Slessor
+100,000
+44
+Luca Brecel
+99,000
+45
+Liam Highfield
+97,250
+46
+Martin O'Donnell
+95,250
+47
+Anthony Hamilton
+90,750
+48
+Jimmy Robertson
+90,500
+49
+Mark Davis
+89,500
+50
+Jamie Jones
+87,500
+51
+Stuart Carrington
+87,000
+52
+Ben Woollaston
+86,750
+53
+Tian Pengfei
+83,750
+54
+Lyu Haotian
+83,250
+55
+Sam Craigie
+82,750
+56
+Sunny Akani
+82,250
+57
+Joe O'Connor
+82,250
+58
+David Grace
+82,000
+59
+Mark King
+81,750
+60
+Dominic Dale
+81,250
+61
+Chris Wakelin
+74,500
+62
+Andrew Higginson
+72,750
+63
+Mark Joyce
+72,000
+64
+Nigel Bond
+68,000
+65
+Jak Jones
+59,500
+66
+Pang Junxu
+57,000
+67
+Jamie Clarke
+44,000
+68
+Robbie Williams
+40,500
+69
+Oliver Lines
+36,500
+70
+Steven Hallworth
+29,500
+71
+Ashley Carty
+29,000
+72
+Simon Lichtenberg
+28,500
+73
+Ken Doherty
+28,500
+74
+Jianbo Zhao
+26,500
+75
+Allan Taylor
+22,500
+76
+Lukas Kleckers
+22,000
+77
+Fergal O'Brien
+21,000
+78
+Rory McLeod
+20,500
+79
+Ashley Hugill
+20,500
+80
+Yang Gao
+20,000
+81
+Aaron Hill
+16,000
+82
+Peter Devlin
+15,500
+83
+Lee Walker
+15,500
+84
+Ben Hancorn
+15,000
+85
+Jamie Wilson
+12,000
+86
+Cao Yupeng *
+11,000
+87
+Zak Surety
+10,500
+88
+Fan Zhengyi
+9,500
+89
+Stephen Hendry
+8,000
+90
+Zhang Jiankang *
+8,000
+91
+Hammad Miah *
+7,000
+92
+Chang Bingyu *
+6,000
+93
+Duane Jones *
+6,000
+94
+Farakh Ajaib
+5,500
+95
+Peter Lines *
+5,000
+96
+Craig Steadman *
+5,000
+97
+Louis Heathcote *
+5,000
+98
+Xu Si *
+5,000
+99
+Andrew Pagett *
+5,000
+100
+Gerard Greene *
+4,000
+101
+Ian Burns *
+4,000
+102
+Jimmy White *
+4,000
+103
+Barry Pinches *
+4,000
+104
+Iulian Boiko
+3,000
+105
+Chen Zifan *
+3,000
+106
+Andy Hicks *
+3,000
+107
+Wu Yize *
+3,000
+108
+Sean Maddocks
+2,000
+109
+Mitchell Mann *
+2,000
+110
+Jackson Page *
+2,000
+111
+Yuan SiJun *
+2,000
+112
+Igor Figueiredo *
+0
+113
+Lei Peifan *
+0
+114
+Fraser Patrick *
+0
+115
+Jamie O'Neill *
+0
+116
+Dean  Young *
+0
+117
+Reanne Evans *
+0
+118
+Alfie Burden *
+0
+119
+Zhang Anda *
+0
+120
+Marco Fu *
+0
+121
+Michael Judge *
+0
+122
+On Yee Ng *
+0

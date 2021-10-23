@@ -1,0 +1,6 @@
+Turniergewicht:13
+Spielerzahl:8
+Teilnehmende Spieler:37,37,37,37,37,37,37,37,37
+Gewinnwahrscheinlichkeiten:0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Position Provisional Ranking:22,22,22,22,22,22,22,22,22
+Anzahl der Centurie Breaks:50,50,50,50,50,50,50,50,50

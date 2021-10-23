@@ -1,0 +1,417 @@
+1
+Mark Williams
+102,000
+2
+Gary Wilson
+46,000
+3
+David Gilbert
+45,000
+4
+Mark Allen
+26,000
+5
+Jimmy Robertson
+25,000
+6
+Elliot Slessor
+20,000
+7
+Ali Carter
+18,000
+8
+Ricky Walden
+18,000
+9
+Zhou Yuelong
+12,000
+10
+Lu Ning
+12,000
+11
+Tom Ford
+11,000
+12
+Cao Yupeng *
+11,000
+13
+Bai Langning (A)
+11,000
+14
+Judd Trump
+11,000
+15
+Oliver Lines
+11,000
+16
+Matthew Selt
+10,000
+17
+Ryan Day
+9,000
+18
+Kyren Wilson
+9,000
+19
+David Lilley (A)
+9,000
+20
+Stuart Bingham
+9,000
+21
+Noppon Saengkham
+8,000
+22
+Lukas Kleckers
+8,000
+23
+Ross Muir (A)
+8,000
+24
+Joe O'Connor
+8,000
+25
+Zhang Jiankang *
+8,000
+26
+Ashley Hugill
+7,000
+27
+Ken Doherty
+7,000
+28
+Mark Davis
+7,000
+29
+Anthony Hamilton
+7,000
+30
+Liam Highfield
+7,000
+31
+John Higgins
+7,000
+32
+Jordan Brown
+7,000
+33
+Pang Junxu
+7,000
+34
+Allan Taylor
+7,000
+35
+Stephen Maguire
+7,000
+36
+Hossein Vafaei
+7,000
+37
+Hammad Miah *
+7,000
+38
+Yan Bingtao
+6,000
+39
+Shaun Murphy
+6,000
+40
+Chang Bingyu *
+6,000
+41
+Lee Walker
+6,000
+42
+Luca Brecel
+6,000
+43
+Duane Jones *
+6,000
+44
+Jak Jones
+6,000
+45
+Matthew Stevens
+5,000
+46
+Graeme Dott
+5,000
+47
+Craig Steadman *
+5,000
+48
+Peter Lines *
+5,000
+49
+Alexander Ursenbacher
+5,000
+50
+Louis Heathcote *
+5,000
+51
+Mark King
+5,000
+52
+Rory McLeod
+5,000
+53
+Jianbo Zhao
+5,000
+54
+Michael Georgiou (A)
+5,000
+55
+David Grace
+5,000
+56
+Andrew Pagett *
+5,000
+57
+Ben Hancorn
+5,000
+58
+Xu Si *
+5,000
+59
+Gerard Greene *
+4,000
+60
+Stuart Carrington
+4,000
+61
+Barry Hawkins
+4,000
+62
+Fergal O'Brien
+4,000
+63
+John Astley (A)
+4,000
+64
+Jimmy White *
+4,000
+65
+Martin Gould
+4,000
+66
+Barry Pinches *
+4,000
+67
+Robbie Williams
+4,000
+68
+Dylan Emery (A)
+4,000
+69
+Ian Burns *
+4,000
+70
+Dominic Dale
+4,000
+71
+Mark Joyce
+3,000
+72
+Ronnie O'Sullivan
+3,000
+73
+Andy Hicks *
+3,000
+74
+Chen Zifan *
+3,000
+75
+Martin O'Donnell
+3,000
+76
+Scott Donaldson
+3,000
+77
+Li Hang
+3,000
+78
+Stephen Hendry
+3,000
+79
+Wenbo Liang
+3,000
+80
+Mark Selby
+3,000
+81
+Wu Yize *
+3,000
+82
+Sunny Akani
+2,000
+83
+Ashley Carty
+2,000
+84
+Jamie Jones
+2,000
+85
+Mitchell Mann *
+2,000
+86
+Joe Perry
+2,000
+87
+Zhao Xintong
+2,000
+88
+Sam Craigie
+2,000
+89
+Peter Devlin
+2,000
+90
+Steven Hallworth
+2,000
+91
+Si Jiahui (A)
+2,000
+92
+Jackson Page *
+2,000
+93
+Thepchaiya Un-Nooh
+2,000
+94
+Michael White (A)
+2,000
+95
+Michael Holt
+2,000
+96
+Simon Lichtenberg
+2,000
+97
+Yuan SiJun *
+2,000
+98
+Ben Woollaston
+2,000
+99
+Leo Fernandez (A)
+2,000
+100
+Jamie Clarke
+1,000
+101
+Sanderson Lam (A)
+1,000
+102
+Yang Gao
+1,000
+103
+Soheil Vahedi (A)
+1,000
+104
+Farakh Ajaib
+1,000
+105
+Nigel Bond
+1,000
+106
+Andrew Higginson
+1,000
+107
+Aaron Hill
+1,000
+108
+Zak Surety
+1,000
+109
+Michael Collumb (A)
+1,000
+110
+Daniel Womersley (A)
+1,000
+111
+Haydon Pinhey (A)
+1,000
+112
+Joshua Thomond (A)
+1,000
+113
+Simon Blackwell (A)
+1,000
+114
+Billy Castle (A)
+1,000
+115
+Sean Maddocks
+0
+116
+Fraser Patrick *
+0
+117
+Chris Wakelin
+0
+118
+Jamie Wilson
+0
+119
+Iulian Boiko
+0
+120
+Igor Figueiredo *
+0
+121
+Robert Milkins
+0
+122
+Alfie Burden *
+0
+123
+Reanne Evans *
+0
+124
+Michael Judge *
+0
+125
+Anthony McGill
+0
+126
+On Yee Ng *
+0
+127
+Dean  Young *
+0
+128
+Zhang Anda *
+0
+129
+Xiao Guodong
+0
+130
+Lyu Haotian
+0
+131
+Jack Lisowski
+0
+132
+Kurt Maflin
+0
+133
+Lei Peifan *
+0
+134
+Tian Pengfei
+0
+135
+Fan Zhengyi
+0
+136
+Marco Fu *
+0
+137
+Ding Junhui
+0
+138
+Jamie O'Neill *
+0
+139
+Neil Robertson
+0
